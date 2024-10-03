@@ -74,3 +74,4 @@ The **Insights Page** provides a deeper dive into the performance of individual 
 - **Revenue and Order Trends**: Charts that show revenue by pizza category, size, and name.
 - **Order Frequency**: An analysis of order distribution across different days and months.
 
+  ---
