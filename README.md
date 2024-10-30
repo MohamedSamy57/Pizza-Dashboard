@@ -2,6 +2,7 @@
 
 This repository contains a **Power BI** dashboard project that provides an in-depth analysis of pizza sales data. The dashboard visualizes key performance metrics (KPIs) and helps stakeholders make data-driven decisions by identifying trends and patterns in customer behavior, revenue, and order preferences.
 
+![Pizza_DashBoard_page-0002](https://github.com/user-attachments/assets/85686494-a840-44ff-b02d-a350b49e2845)
 
 ## 📑 Table of Contents
 
